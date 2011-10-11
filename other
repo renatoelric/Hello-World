@@ -1,6 +1,10 @@
 ***TESTE DE CONFLITO***
 
+<<<<<<< HEAD
 Dará conflito - Aqui Aqui
+=======
+Dará conflito - Novo
+>>>>>>> novo
 
 
 
